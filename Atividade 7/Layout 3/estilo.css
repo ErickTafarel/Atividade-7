@@ -1,0 +1,41 @@
+*{
+margin: 0;
+padding: 0;  /* CSS Reset */
+}
+
+.um{
+ width: 1890px;
+ height: 140px;
+ float:left;
+ display: inline;
+ background-color:blue;
+   margin:10px;
+}
+
+.dois{
+ width: 30%;
+ height: 730px;
+ float:left;
+ display: inline;
+ background-color:red;
+   margin:10px;
+}
+
+.tres{
+ width: 700px;
+ height: 730px;
+ float:left;
+ display: inline;
+ background-color:gray;
+   margin:10px;
+}
+
+.quatro{ 
+ width: 30%;
+ height: 730px;
+ float:left;
+ display: inline;
+ background-color:yellow;
+ margin:10px;
+	
+}
